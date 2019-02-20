@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="google_calendar:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/google_calendar_jar</output-path>
+    <root id="archive" name="google_calendar.jar">
+      <element id="module-output" name="google_calendar" />
+    </root>
+  </artifact>
+</component>
